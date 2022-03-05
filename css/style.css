@@ -1,0 +1,89 @@
+progress {
+  width: 5%;
+}
+
+.form {
+  text-align: center;
+
+}
+
+#contenedor {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#banner-bienvenida {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-top: 20%;
+}
+
+#header {
+  display: none;
+}
+
+#cart {
+  display: none;
+}
+
+#footer {
+  display: none;
+}
+
+/*
+button {
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+footer {
+    background-color: beige;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.pagina-nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fae0cb;
+    position: relative;
+}
+
+.pagina-nav h1 {
+    margin: 20px;
+}
+
+.boton-checkout {
+    background-color: white;
+    color: black;
+    border:  2px solid #f7c7ec;
+    transition-duration: 0.4s;
+    position: absolute;
+    right: 15px;
+    bottom: 10px;
+}
+
+.pagina-contenedora {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 1px solid grey;
+}
+
+.producto-contenedor {
+    margin: 15px;
+    padding: 2px 16px;
+    position: relative;
+    box-shadow:  0 4px 8px 0 rgb(190, 188, 187);
+}
+
+.producto-contenedor:hover {
+    box-shadow: 0 8px 16px 0 rgb(235, 49, 105);
+}
+
+.producto-contenedor h2 {
+    margin-bottom: 10px;
+    margin-left: 15px;
+}*/

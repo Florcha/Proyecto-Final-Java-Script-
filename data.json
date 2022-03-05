@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "marca": "Exel",
+    "descripcion": "Crema Clarificante",
+    "precio": 1200,
+    "img": "./img/CREMA CLARIFICANTE.jpg"
+  },
+  {
+    "id": 1,
+    "marca": "Exel",
+    "descripcion": "Crema Nutritiva",
+    "precio": 900,
+    "img": "./img/CREMA NUTRITIVA.jpg"
+  },
+  {
+    "id": 2,
+    "marca": "Exel",
+    "descripcion": "Crema para Manos",
+    "precio": 725,
+    "img": "./img/CREMA PARA MANOS.jpg"
+  },
+  {
+    "id": 3,
+    "marca": "Exel",
+    "descripcion": "Emulsión de Limpieza x 100",
+    "precio": 1300,
+    "img": "./img/EMULSION DE LIMPIEZA X 100.jpg"
+  },
+  {
+    "id": 4,
+    "marca": "Exel",
+    "descripcion": "Emulsión de Limpieza",
+    "precio": 90,
+    "img": "./img/EMULSION DE LIMPIEZA.jpg"
+  },
+  {
+    "id": 5,
+    "marca": "Exel",
+    "descripcion": "Gel Crema Contorno de Ojos",
+    "precio": 1950,
+    "img": "./img/GEL CREMA CONTORNO DE OJOS.jpg"
+  },
+  {
+    "id": 6,
+    "marca": "Exel",
+    "descripcion": "Gel Crema",
+    "precio": 1675,
+    "img": "./img/GEL CREMA.jpg"
+  },
+  {
+    "id": 7,
+    "marca": "Exel",
+    "descripcion": "Loción Secativa",
+    "precio": 1290,
+    "img": "./img/LOCION SECATIVA.jpg"
+  },
+  {
+    "id": 8,
+    "marca": "Exel",
+    "descripcion": "Mascara Facial",
+    "precio": 1050,
+    "img": "./img/MASCARA FACIAL.jpg"
+  }
+]

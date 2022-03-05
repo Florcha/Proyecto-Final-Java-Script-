@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--Bootstrap Local-->
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>BioExel</title>
+</head>
+
+<body>
+  <header id="header" class="p-3 bg-dark text-white">
+    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+      <img src="img/Logo EXEL.png" class="bi me-2" style="width: 80px; height: 32px;" alt="LogoExel">
+      <span class="fs-4">Biocosmética EXEL</span>
+    </a>
+  </header>
+
+  <main id="main-container">
+
+    <div id="banner-bienvenida" style="height: 80vh;">
+      <h3>Bienvenidos a Biocosmética Exel</h3>
+      <h3>Tienda Online</h3>
+      <progress id="elem"></progress>
+    </div>
+
+    <div id="cart" class="container">
+      <div id="contenedor" class="row"></div>
+      <div id="carrito" class="row"></div>
+      <button id="vaciarCarrito" class="btn btn-dark">Vaciar Carrito</button>
+    </div>
+  </main>
+
+  <footer id="footer" class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+    <div class="col-md-4 d-flex align-items-center">
+      <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
+        <svg class="bi" width="30" height="24">
+          <use xlink:href="#bootstrap"></use>
+        </svg>
+      </a>
+      <span class="text-muted">© 2022 Carranza Diaz, Maria Florencia</span>
+    </div>
+
+    <div class="col-md-4 d-flex align-items-center">
+      <form action="https://formspree.io/f/xknyjlqn" method="post" class="form">
+        <label for="email">Ingresá tu E-mail</label>
+        <input name="Email" id="email" type="email">
+        <button class="btn btn-dark" type="submit">Enviar</button>
+      </form>
+    </div>
+
+  </footer>
+
+  <script src="jquery-3.6.0.min.js"></script>
+  <script src="producto.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
