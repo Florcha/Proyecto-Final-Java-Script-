@@ -196,18 +196,3 @@ $(document).ready(function () {
   });
 
 });
-
-
-// $("h3").fadeOut();
-
-// elem.onclik = function () {
-//   animate({
-//     duration: 1000,
-//     timing(timeFraction) {
-//       return timeFraction;
-//     },
-//     draw(progress) {
-//       elem.style.width = progress * 100 + '%';
-//     }
-//   })
-// };
